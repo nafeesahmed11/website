@@ -42,16 +42,17 @@ body{margin: 0%;
  position: relative;
  height: 100%;
 }
-.web_menu{
-  margin-top: 3px;
-  display: flex;
+.web_menu {
+    margin-top: 3px;
+    display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    /* border: 1px solid rgb(36, 35, 35); */
-    width: 300px;
+    flex-wrap: nowrap;
+/*     border: 1px solid rgb(36, 35, 35); */
+    width: 364px;
     height: 100%;
     align-content: center;
     justify-content: center;
+    align-items: center;
 }
 .top_menu{
   display: flex;
