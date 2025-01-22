@@ -1,5 +1,6 @@
 
 body{margin: 0%;
+  background-color: rgba(239, 239, 239, 0.847);
   font-family: "Roboto", serif;
   font-optical-sizing: auto;
   font-weight: weight;
@@ -354,7 +355,10 @@ height: 260px;
     position: relative;
     /* border: 1px solid black; */
   }
+
   /* Footer  */
+
+
 .foot_con{
   background-color: rgba(239, 239, 239, 0.847);
   /* margin-left:10px ; */
