@@ -61,11 +61,17 @@ body{margin: 0%;
   /* justify-items: ; */
 
 }
-#Services{    color: gray;
+#Services{color: gray;
   text-decoration: none;
   border-radius: 10px;
   /* padding: 50px; */
-  width: 76px;
+  width: 66px;
+}
+#Services2{color: gray;
+  text-decoration: none;
+  border-radius: 10px;
+  /* padding: 50px; */
+  width: 66px;
 }
 /* devider */
 #devider{margin-left: 150px;
