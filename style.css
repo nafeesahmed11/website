@@ -17,10 +17,10 @@ body{margin: 0%;
                width: 100%; 
                background-color:whitesmoke;
                justify-content: space-between;
-               position: fixed;
+               position: sticky;
                color: white;
                z-index: 3;
-               padding-bottom:2px
+/*                padding-bottom:2px */
                
 }
 
