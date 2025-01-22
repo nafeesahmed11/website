@@ -17,7 +17,7 @@ body{margin: 0%;
                width: 100%; 
                background-color:whitesmoke;
                justify-content: space-between;
-               position: fixed;
+               position: sticky;
                color: white;
                z-index: 3;
                
