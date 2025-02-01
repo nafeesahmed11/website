@@ -73,7 +73,7 @@ button {
 }
 a{
   text-decoration: none;
-  color:black
+  color:#262626;
 }
 /* 2nd Area */
 .con-b_seller {
@@ -206,6 +206,7 @@ section.grill-con {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-y: 94%;
 }
 /* Area 6 start */
 .len-fields{
@@ -221,7 +222,7 @@ section.grill-con {
   text-align: center;
 }
 .len-fields>p{
-  color: rgba(17, 17, 17, 0.727);
+  color: #262626;
   font-size: 20px;
 }
 .Subscribes{
@@ -237,7 +238,7 @@ section.grill-con {
   text-align: center;
 }
 .Subscribes>p{
-  color: rgba(17, 17, 17, 0.727);
+  color: rgba(17, 17, 17, 0.611);
   font-size: 20px;
 }
 .Subscribes>div {
@@ -292,3 +293,7 @@ footer.foot {
   flex-direction: row;
   justify-content: space-evenly;
 }
+.fot-2 p{
+  color: rgba(255, 255, 255, 0.86);
+}
+.fot-2 p>a{color: rgba(255, 255, 255, 0.771);}
