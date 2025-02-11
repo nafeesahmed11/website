@@ -330,8 +330,7 @@
     position: relative;
     left: 0;
     margin-top: 60px;
-    background-color: rgba(59, 57, 57, 0.573);
-    box-shadow: 0px 0px 28px .2px;
+   
     border-radius: 10px;
    }
   .top-content p{
